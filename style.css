@@ -341,6 +341,9 @@ span{
     .cake{
         scale: 0.6;
     }
+    .inside p{
+        scale: 0.5;
+    }
      
     
 }
